@@ -15,7 +15,12 @@ After a failover during your SAP Data Center migration, it is essential to condu
 - **Instance availability:** Check all SAP instances (ASCS, PAS, AAS) are online.
 - **Database connectivity:** Ensure SAP applications can connect to the database without errors.
 - **Logon checks:** Test SAP GUI/WebGUI login for multiple users.
-
+- **Check SM21**
+- **Check ST22**
+- **Check RFC Connections**
+- **Check SCOT / SCON**
+- **Check STMS**
+- **Test a print-out**
 ---
 
 ### **3. Functional Testing**
